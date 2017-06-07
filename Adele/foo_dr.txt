@@ -1,0 +1,32 @@
+foobar2000 1.1.7 / Dynamic Range Meter 1.1.1
+log date: 2012-01-07 23:36:10
+
+--------------------------------------------------------------------------------
+Analyzed: Adele / 21 [XL Recordings LP (EU); "DM series"]
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -1.07 dB   -14.08 dB      3:46 01-Rolling In The Deep
+DR9       -2.00 dB   -13.53 dB      3:42 02-Rumour Has It
+DR8       -4.29 dB   -15.50 dB      4:09 03-Turning Tables
+DR11      -1.17 dB   -15.51 dB      4:03 04-Don't You Remember
+DR9       -1.26 dB   -13.50 dB      4:01 05-Set Fire To The Rain
+DR12      -1.18 dB   -16.16 dB      4:36 06-He Won't Go
+DR9       -5.03 dB   -17.84 dB      3:49 07-Take It All
+DR9       -1.26 dB   -12.86 dB      4:02 08-I'll Be Waiting
+DR11      -2.29 dB   -16.53 dB      5:49 09-One And Only
+DR12      -0.79 dB   -16.49 dB      5:17 10-Lovesong
+DR9       -5.10 dB   -17.38 dB      4:45 11-Someone Like You
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           714 kbps
+Codec:             FLAC
+================================================================================
+

@@ -1,0 +1,21 @@
+Technical Informations
+
+Hannl"limited" Record Cleaning Machine with Rotating Brush
+TT: Bergmann Audio "Magne"
+Tonearm: Bergmann Magne (tangential air-bearing tonearm)
+Cartridge: Ortofon MC A 90
+Phono Amp: Nagra BPS (100 Ohm load)
+Interconnects by Silent Wire (NF-7)
+Benchmark ADC 1 USB
+Interconnects by VIA Blue (XLR & USB-Cable)
+AC connects by Goldkabel
+Wavelab 6.1 recording software (recording & manual click removal)
+iZotope RX Advanced 2.0 (resampling & audio restoration)
+Traders Little Helper (SBE fix on 16/44.1)
+
+
+Vacuum Cleaning > Bergmann Magne > Nagra BPS > PC > Wavelab 6.1 (24/96) > manual click removal
+analyze (no clipping, no DC Bias offset) > split into individual Tracks > FLAC encoded (Vers. 1.21)
+
+No silence been removed, please burn gapless to match original tracklayout.
+

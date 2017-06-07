@@ -1,0 +1,20 @@
+{
+  "name": "flac-to-mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "child_process": "^1.0.2",
+    "ffmpeg": "0.0.4",
+    "file-type": "^4.3.0",
+    "path": "^0.12.7",
+    "read-chunk": "^2.0.0",
+    "shelljs": "^0.7.7"
+  }
+}
